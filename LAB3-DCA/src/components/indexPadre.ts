@@ -1,0 +1,1 @@
+export {default as WorkersCard} from './myComponent/MyComponet.js';
